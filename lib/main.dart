@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:provinha/SegundaTela.dart';
+import 'package:prova_p4/SegundaTela.dart';
 
 void main() {
   runApp(MaterialApp(

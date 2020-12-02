@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provinha/models/pokeAPI.dart';
-import 'package:provinha/utilities/Network_Helper.dart';
+import "package:prova_p4/models/pokeAPI.dart";
+import 'package:prova_p4/utilities/Network_Helper.dart';
 
 
 class SegundaTela extends StatefulWidget {
